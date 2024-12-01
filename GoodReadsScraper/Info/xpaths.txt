@@ -1,0 +1,12 @@
+Get book URLs from the lising page:
+//tbody/tr/td[3]/a[@class='bookTitle']/@href
+
+URL for reviews is: 
+URL + /reviews
+
+I will need to download this HTML
+
+I will need to scrape this HTML
+
+
+baseUrl: https://www.goodreads.com
